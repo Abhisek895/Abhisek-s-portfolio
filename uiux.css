@@ -1,0 +1,16 @@
+.canva-icon {
+      font-family: 'Dancing Script', cursive;
+      font-size: 28px; /* Adjust font size */
+      color: #59B2F4; /* Apply the color */
+      width: 49px;
+      height: 70px;
+      line-height: 53px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      font-weight: bold;
+    }
+    #AdobePhotoshop{
+      margin-top: -28px;
+    }

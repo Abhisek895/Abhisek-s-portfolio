@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Remove bullet points and text decoration for all list items */
+ul {
+    list-style-type: none; /* Remove the default bullet points */
+    padding-left: 0; /* Ensure no indentation */
+}
+
+ul li {
+    text-decoration: none; /* Remove any text decoration */
+    font-weight: bolder;
+    font-size: 1.277rem;
+}
+.span-space{
+    padding-top: 5px;
+}
+
+.services-box ul li b{
+    color: #59B2F4;
+}
+.services-box strong{
+    color: #59B2F4;
+
+}
